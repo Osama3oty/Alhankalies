@@ -1,0 +1,28 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Alhankalies</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f0f0f0;
+color:#333;
+text-align: center;
+margin: 0;
+padding: 20px;
+}
+h1 {
+color: #007bff;
+}
+</style>
+</head>
+<body>
+<h1>Welcome to Alhankalies's website!</h1>
+<p>(Alhankalies stares through your soul)</p>
+<img
+src="https://static.wikia.nocookie.net/alrahma/images/7/7e/%D8%A7%D9%84%D8%AD%D9%86%D9%83%D9%84%D9%8A%D8%B3.jpeg/revision/latest?cb=20230823150124&path-prefix=ar" alt="Alhankalies" width="300">
+<p style="font-size: 12px; color: gray;">Made by: DR. Osama bin laden.</p>
+</body>
+</html>
